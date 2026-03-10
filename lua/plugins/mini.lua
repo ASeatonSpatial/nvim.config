@@ -18,6 +18,10 @@ return {
       require('mini.surround').setup()
 
       -- Comment out lines
+      -- - gc  [C]omment out (normal or visual mode)
+      -- - gcc [C]omment line
+      --
+      -- Note:  Change this to <leader>cc and <leader>cl at some point
       require('mini.comment').setup()
 
       -- Icons required for which-key

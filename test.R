@@ -28,3 +28,8 @@ if (TRUE){
   print("bye")
 }
 
+test_function = function(a,b){
+  print("This is a test function")
+  blah = a + b
+  return(blah)
+}

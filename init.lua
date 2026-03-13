@@ -6,7 +6,7 @@ require 'config.R' -- Contains slim setup, must load after config.lazy
 
 -- TODO:
 -- 1. DONE: Modularise - keybinds.lua, autocmd.lua, quarto.lua and so on.
--- 2. Write my own version of slime calls for quarto support
+-- 2. IN PROG: Write my own version of slime calls for quarto support
 -- 3. Add support for markdown files.  Knitr nvim plugins?
 -- 4. Try the folke/flash plugin for faster navigation? It looks really cool.
 -- 5. General git integration plugins.  Or stick with sourcetree? Investigate
